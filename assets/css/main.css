@@ -4083,7 +4083,7 @@
 
 		#banner .content {
 			position: absolute;
-			bottom: 0;
+			bottom: 70;
 			left: 0;
 			background-color: rgba(21, 27, 33, 0.6);
 			color: #ffffff;
